@@ -54,7 +54,7 @@
     "glob": "7.1.7",
     "json-rpc2": "2.0.0",
     "moment": "2.29.4",
-    "semver": "7.3.4",
+    "semver": "7.5.2",
     "tree-kill": "file:third_party/tree-kill",
     "vscode-debugadapter": "1.45.0",
     "vscode-debugadapter-testsupport": "1.45.0",
@@ -84,7 +84,7 @@
     "sinon": "9.2.4",
     "ts-loader": "7.0.5",
     "typescript": "4.6.4",
-    "yarn": "1.22.10"
+    "yarn": "1.22.13"
   },
   "engines": {
     "vscode": "^1.67.0",
